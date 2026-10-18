@@ -4,7 +4,7 @@ let happy;
 
 function setup() {
     createCanvas(200, 300);
-    Fill("pink");
+    fill("pink");
     textAlign(CENTER, CENTER);
     fontSize(20);
     yPos = 100;
