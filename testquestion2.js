@@ -8,3 +8,9 @@ function setup() {
     fontSize(20);
     yPos = 100;
 }
+
+function draw() {
+    for (let i; i < 5; i++) {
+        
+    }
+}
