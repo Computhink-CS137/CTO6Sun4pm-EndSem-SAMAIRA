@@ -10,7 +10,7 @@ function setup() {
 function draw () {
     background(137, 216, 230);
     circle( 25, posX, 200);
-    fill("greeen");
+    fill(0, 200, 0);
     posX = posX + speedX
     if (posX == 575) {
         posX = posX + (speedX * -1)
