@@ -2,5 +2,6 @@ let pokemons = ["Pikachu", "Raichu", "Balbasaur", "Mewtwo", "Charizard" ];
 let yPos;
 
 function setup() {
-    createCanvas(200, 300)
+    createCanvas(200, 300);
+    FileList("pink")
 }
