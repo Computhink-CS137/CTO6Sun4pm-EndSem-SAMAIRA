@@ -1,6 +1,6 @@
 let posX = 300
 let speedX;
-function setup () {
+function setup() {
     createCanvas(600, 400);
     posX = width / 2;
     speedX = 5;
