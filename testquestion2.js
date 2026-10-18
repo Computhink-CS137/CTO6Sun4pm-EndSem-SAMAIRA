@@ -1,1 +1,1 @@
-let pokemons = [""]
+let pokemons = ["pikachu", ]
