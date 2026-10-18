@@ -5,5 +5,5 @@ function setup() {
     createCanvas(200, 300);
     Fill("pink");
     textAlign(CENTER, CENTER);
-    font
+    fontSize(20);
 }
