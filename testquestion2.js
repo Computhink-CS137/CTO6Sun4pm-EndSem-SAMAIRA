@@ -12,7 +12,6 @@ function setup() {
 
 function draw() {
     for (let i = 0; i < pokemons.length; i++) {
-
         text( pokemon[i], width / 2, yPos)
         yPos = yPos + i * 30
     }
