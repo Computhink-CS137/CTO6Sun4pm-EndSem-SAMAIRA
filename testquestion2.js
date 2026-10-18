@@ -1,2 +1,4 @@
-let pokemons = ["Pikachu", "Raichu", "Balbasaur", "Mewtwo", "Charizard" ]
+let pokemons = ["Pikachu", "Raichu", "Balbasaur", "Mewtwo", "Charizard" ];
 let yPos;
+
+function setup()
