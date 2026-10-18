@@ -7,13 +7,13 @@ function setup() {
     background(137, 216, 230);
 }
 
-// function draw () {
-//     background(137, 216, 230);
-//     circle( 50, posX, 200);
-//     fill("greeen")
-//     posX = posX + speedX
-//     if (posX == 575) {
-//         posX = posX + (speedX * -1)
-//     }
+function draw () {
+    background(137, 216, 230);
+    circle( 50, posX, 200);
+    fill("greeen")
+    posX = posX + speedX
+    if (posX == 575) {
+        posX = posX + (speedX * -1)
+    }
 
-// }
+}
