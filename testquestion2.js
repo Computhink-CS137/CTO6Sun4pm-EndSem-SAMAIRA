@@ -9,9 +9,9 @@ function setup() {
     yPos = 100;
 }
 
-// function draw() {
-//     for (let i; i < 5; i++) {
-//         text(pokemons[i], width / 2, yPos)
-//         yPos = yPos + i * 30
-//     }
-// }
+function draw() {
+    for (let i; i < 5; i++) {
+        text(pokemons[i], width / 2, yPos)
+        yPos = yPos + i * 30
+    }
+}
