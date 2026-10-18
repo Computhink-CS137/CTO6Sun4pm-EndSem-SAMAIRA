@@ -9,7 +9,7 @@ function setup() {
 
 function draw () {
     background(137, 216, 230);
-    circle 300, 200);
+    circle(300, 200, 50);
     fill(0, 200, 0);
     posX = posX + speedX
     if (posX >= 575) {
