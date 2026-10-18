@@ -6,5 +6,5 @@ function setup() {
     Fill("pink");
     textAlign(CENTER, CENTER);
     fontSize(20);
-    y
+    yPos = 100;
 }
