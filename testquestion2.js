@@ -11,6 +11,6 @@ function setup() {
 
 function draw() {
     for (let i; i < 5; i++) {
-        
+        yPos = yPos + i 
     }
 }
