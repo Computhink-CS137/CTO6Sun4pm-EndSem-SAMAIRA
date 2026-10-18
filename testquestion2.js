@@ -3,5 +3,6 @@ let yPos;
 
 function setup() {
     createCanvas(200, 300);
-    FileList("pink")
+    Fill("pink");
+    
 }
