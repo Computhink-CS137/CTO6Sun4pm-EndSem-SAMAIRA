@@ -12,7 +12,7 @@ function draw () {
     circle( 5, 300, 200);
     fill(0, 200, 0);
     posX = posX + speedX
-    if (posX == 575) {
+    if (posX >= 575) {
         posX = posX + (speedX * -1)
     }
 
