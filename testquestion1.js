@@ -1,4 +1,4 @@
-let posX = 300
+let posX;
 let speedX;
 function setup() {
     createCanvas(600, 400);
